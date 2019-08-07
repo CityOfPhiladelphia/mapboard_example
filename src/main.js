@@ -88,9 +88,6 @@ mapboard({
   },
   pictometry: {
     enabled: false,
-    // iframeId: 'pictometry-ipa',
-    // apiKey: pictApiKey,
-    // secretKey: pictSecretKey,
   },
   transforms,
   greeting,
